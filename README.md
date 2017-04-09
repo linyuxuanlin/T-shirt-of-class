@@ -12,7 +12,9 @@
 
 ### 背面印的名字，请童鞋们自行校对（留空表示不加名字）
 
-![背面印的名字.jpg](http://upload-images.jianshu.io/upload_images/2218072-1dd68a7c3f039b7e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![背面印的名字.png](http://upload-images.jianshu.io/upload_images/2218072-b6e6d15f7763d29d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ---
 
