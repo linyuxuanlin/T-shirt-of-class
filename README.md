@@ -1,5 +1,7 @@
 # 班服设计文件
-## 目前的效果(非最终)：
+## 最终效果：
+（排球赛纪念）
+![mmexport1494658044697-01.jpeg](http://upload-images.jianshu.io/upload_images/2218072-e05528c28e9d8990.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 正面
 ![衣服效果图.001.png](http://upload-images.jianshu.io/upload_images/2218072-b65d6139577a133d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -10,9 +12,6 @@
 
 *注："Linyx" 仅做参照*
 
-### 背面印的名字，请童鞋们自行校对（留空表示不加名字）
-
-#### （由于频繁修改，懒得重新导出图片，要的找我拿，或者直接下载上面的文件。）
 
 
 
