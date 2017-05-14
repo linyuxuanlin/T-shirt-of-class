@@ -1,7 +1,7 @@
 # 班服设计文件
 ## 最终效果：
 （排球赛纪念）
-![mmexport1494658044697-01.jpeg](http://upload-images.jianshu.io/upload_images/2218072-e05528c28e9d8990.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1.jpeg](http://upload-images.jianshu.io/upload_images/2218072-e05528c28e9d8990.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 正面
 ![衣服效果图.001.png](http://upload-images.jianshu.io/upload_images/2218072-b65d6139577a133d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
