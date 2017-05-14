@@ -3,7 +3,7 @@
 （排球赛纪念）
 
 
-![mmexport1494658044697-01.png](http://upload-images.jianshu.io/upload_images/2218072-764830cb2a9b0086.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![mmexport1494658044697-01.png](https://github.com/linyuxuanlin/T-shirt-of-class/blob/master/Screenshots/mmexport1494658044697-01.png)
 
 
 
