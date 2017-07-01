@@ -3,7 +3,8 @@
 （排球赛纪念）
 
 
-![mmexport1494658044697-01.png](https://github.com/linyuxuanlin/T-shirt-of-class/blob/master/Screenshots/mmexport1494658044697-01.png)
+
+![mmexport1494658044697-01.jpg](http://upload-images.jianshu.io/upload_images/2218072-2eaa9bf1fd79466d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
